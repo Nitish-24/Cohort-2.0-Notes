@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.name{
+    background-color: navy;
+    color: aliceblue;
+    text-align: center;
+    height: 180px;
+}
+
+.name h1{
+    text-transform: capitalize;
+    padding-top: 35px ;
+}
+
+.name p{
+   padding-top: 15px; 
+}
+.about{
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    height: 180px;
+}
+
+.about h1{
+    text-transform: capitalize;
+    padding-top: 35px ;
+}
+
+.about p{
+   padding-top: 15px; 
+}
+
+.education{
+    margin: 0px 130px;
+    background-color:#5e8abf;
+    text-align: center;
+    color: #000;
+    padding-top: 20px;
+    height: 160px;
+}
+.education h1{
+    margin: 5px;
+}
+
+.box1{
+    background: #fff;
+    text-align: center;
+    padding: 5px 20px;
+     margin: 0px 290px;
+}
+.box2{
+    background: #fff;
+    text-align: center;
+    padding: 5px 20px;
+     margin: 5px 290px;
+}
+.skills{
+    margin: 10px 130px;
+    background-color:#5ebf9a;
+    text-align: center;
+    color: #000;
+    padding-top: 20px;
+    height: 260px;
+}
+.project{
+    margin: 10px 130px;
+    background-color:#e480db;
+    text-align: center;
+    color: #000;
+    padding-top: 20px;
+    height: 260px;
+}
+.contact{
+    margin: 10px 130px;
+    background-color:#c1ee78;
+    text-align: center;
+    color: #000;
+    padding-top: 20px;
+    height: 210px;
+}
+.box{
+    background: #fff;
+    text-align: center;
+    padding: 5px 20px;
+    margin: 5px 290px;
+}
+
+.foot{
+    background-color: darkblue;
+    color: aliceblue;
+    text-align: center;
+    padding: 7px;
+}
